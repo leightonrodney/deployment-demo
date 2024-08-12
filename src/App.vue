@@ -1,6 +1,6 @@
 <script setup>
 
-const version = 1.0;
+const version = Number(2.2).toFixed(2);
 
 </script>
 
